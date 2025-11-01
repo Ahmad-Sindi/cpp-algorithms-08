@@ -18,6 +18,5 @@ Type your mark: 72
 Congratulations! You passed the test.
 
 Type your mark: 46
-===
 Result: You failed the final test.
 "Study hard and diligently, or work harder next time!"
